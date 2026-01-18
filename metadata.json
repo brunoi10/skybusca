@@ -1,0 +1,7 @@
+{
+  "name": "SkyWatch Brasil",
+  "description": "Um painel de rastreamento de voos em tempo real de alto desempenho com insights de voos baseados em IA e visualização de tráfego aéreo global.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

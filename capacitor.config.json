@@ -1,0 +1,11 @@
+
+{
+  "appId": "com.skywatch.brasil",
+  "appName": "SkyWatch Brasil",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  }
+}

@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.env
+.DS_Store
+*.log
+.vscode/
+
+# Pastas sensíveis do Android/Termux
+.ssh/
+.config/
+.gitconfig
+storage/
+.bash_history
